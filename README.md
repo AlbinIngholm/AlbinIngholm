@@ -1,7 +1,10 @@
-### Hi there 👋
+Hi there! 👋
 
-- 🔭 I’m currently working on a C# school project
-- 🌱 I’m currently learning C#, Blazor, JavaScript, React
-- 👯 I’m looking to collaborate on school / work projects
-- 📫 How to reach me: albin.ingholm@gmail.com
-- ⚡ Fun fact: national champion in RC cars :)
+I’m Albin Ingholm, a tech enthusiast with a passion for coding, motorsport, and music. Here’s a little about me:
+
+    💻 IT student at Mailand VGS
+    📚 Currently learning Python and C#
+    🎸 Enjoy playing guitar in my spare time
+    🏎 Norwegian Champion in RC motorsport 🏆
+
+I’m exploring new technologies and working on cool projects. Check out some of my work here!
